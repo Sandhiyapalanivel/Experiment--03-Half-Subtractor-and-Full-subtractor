@@ -52,7 +52,26 @@ RegisterNumber:  23012555
 
 ### HALF SUBTRACTOR OUTPUT:
 
-![Uploading image.png…]()
+![image](https://github.com/Sandhiyapalanivel/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743091/db0ee482-7d33-4c0f-b622-52051e94d965)
+
+### FULL SUBTRACTOR PROGRAM:
+
+![image](https://github.com/Sandhiyapalanivel/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743091/446a981c-5a14-45aa-a3c2-84c5f3d1ae47)
+
+### FULL SUBTRACTOR TRUTH TABLE:
+
+
+### FULL SUBTRACTOR RTL VIEW:
+
+
+![image](https://github.com/Sandhiyapalanivel/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743091/6f3daee0-ff82-4bd7-ad3b-d7e1f4e926cb)
+
+### FULL SUBTRACTOR OUTPUT:
+
+![image](https://github.com/Sandhiyapalanivel/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743091/fa9bc218-0217-4815-9633-39c0d54fca58)
+
+
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
