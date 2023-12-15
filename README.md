@@ -63,6 +63,8 @@ RegisterNumber:  23012555
 
 ### FULL SUBTRACTOR TRUTH TABLE:
 
+![image](https://github.com/Sandhiyapalanivel/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743091/10e6657c-e869-4b5f-accf-204ce56c3f8b)
+
 
 ### FULL SUBTRACTOR RTL VIEW:
 
